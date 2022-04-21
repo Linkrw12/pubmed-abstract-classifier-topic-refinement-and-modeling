@@ -13,3 +13,5 @@ Stremlit app designed to query pubmed and (eventually) perform topic modeling.
 # Extra
 * Make Dockerfile to create streamlit app image
 
+## Run streamlit app
+`$ streamlit run streamlit_pubmed_topic_modeling.py`
